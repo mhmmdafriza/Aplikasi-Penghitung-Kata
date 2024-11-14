@@ -4,7 +4,7 @@
 
 Aplikasi Penghitung Kata adalah alat yang dirancang untuk menghitung jumlah kata, karakter, kalimat, dan paragraf dalam sebuah teks. Aplikasi ini sangat berguna bagi penulis, pelajar, dan profesional yang ingin memastikan teks mereka memenuhi batasan kata tertentu atau memeriksa kepadatan kata kunci.
 
-## coding java frame
+## Coding java frame Aplikasi Penghitung Kata
 ```java
 
 import javax.swing.*; // Untuk JLabel, JTextArea, JScrollPane, JButton, dll.
